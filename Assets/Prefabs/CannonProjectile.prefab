@@ -4888,4 +4888,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_damage: 10
-  m_isPhysical: 1
+  m_isPhysical: 0
+  _maxFlightTime: 10
